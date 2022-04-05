@@ -1,0 +1,4 @@
+gallopelao,hector,15,Masculino,90,3
+perroloco,juan,78,Femenino,56,2
+hujhujudu,ale,26,Masculino,75,10
+luistecoje,hec,19,Masculino,90,1
